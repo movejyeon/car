@@ -68,6 +68,11 @@ nav ul li:hover {
   transform: translateY(100px);
   opacity: 0;
   transition: 0.5s;
+  font-size: 8rem;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 80px;
 }
 .con2 ul li.on {
   transform: translateY(0);
